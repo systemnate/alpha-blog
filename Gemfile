@@ -10,7 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass', '~> 3.3.5'
-
+gem 'bcrypt', '~> 3.1.7'
 group :development, :test do
   gem 'byebug'
   gem 'sqlite3'
